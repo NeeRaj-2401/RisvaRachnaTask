@@ -25,7 +25,7 @@ To use this API, make a POST request to the `/login` endpoint with the following
 - **Request Successful**  <br>
   <img src="./screenshots/loginSuccessful.PNG" width="50%" alt="TrendingPage"> <br> <br>
 - **Request Failed**  <br>
-  <img src="./screenshots/loginFailed.PNG" width="50%" alt="SearchResults"> <br> <br
+  <img src="./screenshots/loginFailed.PNG" width="50%" alt="SearchResults"> <br> <br>
 
 ## B. Sorted Fruit List API
 
