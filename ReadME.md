@@ -4,6 +4,8 @@
 
 This repository contains examples of APIs implemented in Node.js.
 
+**Note: Before running the API examples, make sure to install the required dependencies by running `npm i` in the app directory.**
+
 ## A. User Login API
 
 This API allows users to log in using a username and password. The API enforces certain requirements for the username and password as follows:
@@ -52,6 +54,6 @@ To use this API, make a POST request to the `/fruits` endpoint with the followin
 - **Request Successful**  <br>
   <img src="./screenshots/fruitSuccessful.PNG" width="50%" alt="TrendingPage"> <br> <br>
 - **Request Failed**  <br>
-  <img src="./screenshots/fruitsFailed.PNG" width="50%" alt="SearchResults"> <br> <br
+  <img src="./screenshots/fruitsFailed.PNG" width="50%" alt="SearchResults"> <br> <br>
 
 ---
