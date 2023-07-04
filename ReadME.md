@@ -1,5 +1,3 @@
----
-
 # API Examples
 
 This repository contains examples of APIs implemented in Node.js.
@@ -56,4 +54,3 @@ To use this API, make a POST request to the `/fruits` endpoint with the followin
 - **Request Failed**  <br>
   <img src="./screenshots/fruitsFailed.PNG" width="50%" alt="SearchResults"> <br> <br>
 
----
